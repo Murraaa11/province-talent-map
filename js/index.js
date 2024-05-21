@@ -8,7 +8,7 @@ Promise.all([
   const color = d3
     .scaleOrdinal()
     .domain(["outbound", "inbound"])
-    .range(["#cbccfe", "#048ed6"]);
+    .range(["#fecd04", "#00adb3"]);
 
   const x = d3
     .scaleSqrt()

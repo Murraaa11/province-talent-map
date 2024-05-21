@@ -1,0 +1,48 @@
+year,source_ISO,target_ISO,value
+2018,Beijing,Shanghai,10
+2018,Beijing,Jiangsu,23
+2018,Beijing,Guizhou,6
+2018,Beijing,Guangdong,24
+2018,Beijing,Fujian,19
+2018,Beijing,Hong Kong,41
+2018,Shanghai,Beijing,89
+2018,Shanghai,Jiangsu,12
+2018,Shanghai,Guizhou,19
+2018,Shanghai,Guangdong,58
+2018,Shanghai,Fujian,39
+2018,Shanghai,Hong Kong,9
+2018,Jiangsu,Beijing,2
+2018,Jiangsu,Shanghai,26
+2018,Jiangsu,Guizhou,10
+2018,Jiangsu,Guangdong,4
+2018,Jiangsu,Fujian,18
+2018,Jiangsu,Hong Kong,38
+2018,Guizhou,Beijing,49
+2018,Guizhou,Shanghai,66
+2018,Guizhou,Jiangsu,3
+2018,Guizhou,Guangdong,7
+2018,Guizhou,Fujian,39
+2018,Guizhou,Hong Kong,33
+2018,Guangdong,Beijing,16
+2018,Guangdong,Shanghai,5
+2018,Guangdong,Jiangsu,22
+2018,Guangdong,Guizhou,9
+2018,Guangdong,Fujian,11
+2018,Guangdong,Hong Kong,10
+2018,Fujian,Shanxi,56
+2018,Fujian,Zhejiang,46
+2018,Fujian,Hunan,47
+2018,Fujian,Hubei,20
+2018,Fujian,Macao,8
+2018,Fujian,Taiwan,10
+2018,Hong Kong,Beijing,3
+2018,Hong Kong,Shanghai,18
+2018,Hong Kong,Chongqing,43
+2018,Hong Kong,Sichuan,22
+2018,Hong Kong,Hunan,6
+2018,Hong Kong,Jiangxi,7
+2018,Hong Kong,Jiangsu,13
+2018,Hong Kong,Hubei,42
+2018,Hong Kong,Macao,77
+2018,Hong Kong,Xinjiang,29
+2018,Hong Kong,Taiwan,19
